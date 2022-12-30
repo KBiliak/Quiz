@@ -1,0 +1,20 @@
+[{"questions_text": "What are dolphins?",
+  "alternatives": ["Amphibians", "Fish", "Mammals", "Birds"],
+  "correct_answer": 3},
+{"questions_text": "What is the largest plane in the world 2021?",
+"alternatives": ["Ukrainian Mriya","Boing777"],
+"correct_answer": 1},
+{"questions_text": "What occupies most of the Earth's surface?",
+  "alternatives": ["Water", "Land"],
+  "correct_answer": 1},
+{"questions_text": "What is the capital of New Zealand?",
+"alternatives": ["Zhytomyr","Wellington", "Zagreb"],
+"correct_answer": 2},
+{"questions_text": "What sport did David Beckham play??",
+"alternatives": ["Football","Basketball", "Quidditch"],
+"correct_answer": 1}]
+
+
+
+
+
